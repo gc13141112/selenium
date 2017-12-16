@@ -1,5 +1,7 @@
 # selenium
 
+http://www.jianshu.com/p/32f7cccb6b78?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=qq
+
 selenium学习
 
 refer on:
